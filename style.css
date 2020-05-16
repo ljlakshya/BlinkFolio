@@ -1,0 +1,11 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+    background-color: black;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    color:whitesmoke;
+    font-weight: bold;
+}
