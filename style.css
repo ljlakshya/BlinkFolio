@@ -176,3 +176,12 @@ border:7px solid green;
 .copyright{
     margin-top: 2%;
 }
+.navbar-toggler{
+    margin-right: 15%;
+    background-color: crimson;
+    position: relative;
+    border: crimson;
+    border-width: 40%;
+    width: 12%;
+    height: 200%;
+}
