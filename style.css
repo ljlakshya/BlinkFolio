@@ -11,13 +11,13 @@ body{
     font-weight: bold;
     
 }
+
 .ig{
     width: 100%;
     height: 650px;
-    position: fixed;
-    float: right;
-    
-}
+    position: fixed; 
+} 
+
 .divv{
     background-color: black;
     position: absolute;
